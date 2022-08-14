@@ -32,7 +32,7 @@ The first enhancement in this portfolio is the conversion of a Java Swing GUI ap
 
 ## Enhancement One: Software Design and Engineering
 
-For the software design and engineering component of the project, I included an artifact from CS 250 that is an interactive slide show application written using Java and its built-in Swing GUI library. The application features “next” and “previous” buttons for a user to cycle through a total of five slides about popular destinations for wellness getaways with text captions describing each location. This project was created to practice GUI design with a strong focus on iterative development techniques using the software development life cycle. I selected this artifact to showcase my skill of iterative development using the Agile methodology to incrementally develop code and create deliverables through weeklong sprints. This artifact is the culmination of multiple software development iterations to improve code and add features to the interactive slide show interface. It also demonstrates my ability to solve problems and create software by algorithmically and programmatically building a GUI (CS-499-04). Creating this GUI through code shows that I can design interfaces without the help of visual cues provided by GUI creation tools that hold the developer’s hand but are somewhat inflexible. I enhanced this artifact by addressing a common software industry goal: porting an application to another programming language with a focus on efficiency. I recreated this slideshow application using C++ instead of Java, and the Qt API instead of Swing. The new C++ and Qt GUI mimics the original implementation, but besides simply being a ported version of the program, it improves on design, security, and documentation.
+For the software design and engineering component of the project, I included an artifact from CS 250 that is an interactive slide show application written using Java and its built-in Swing GUI library. The application features “next” and “previous” buttons for a user to cycle through a total of five slides about popular destinations for wellness getaways with text captions describing each location. This project was created to practice GUI design with a strong focus on iterative development techniques using the software development life cycle. I selected this artifact to showcase my skill of iterative development using the Agile methodology to incrementally develop code and create deliverables through weeklong sprints. This artifact is the culmination of multiple software development iterations to improve code and add features to the interactive slide show interface. It also demonstrates my ability to solve problems and create software by algorithmically and programmatically building a GUI (CS-499-04). Creating this GUI through code shows that I can design interfaces without the help of visual cues provided by GUI creation tools that hold the developer’s hand but are somewhat inflexible. I enhanced this artifact by addressing a common software industry goal: porting an application to another programming language with a focus on efficiency. I recreated this slideshow application using C++ instead of Java, and the Qt API instead of Swing. The new C++ and Qt GUI mimics the original implementation, but besides simply being a ported version of the program, it improves on design, security, and documentation. Expand the enhancement details below for specific changes made.
 
 ###### Left: Original Java Swing Application — Right: Ported C++ Qt Application
 
@@ -42,10 +42,14 @@ For the software design and engineering component of the project, I included an 
 
 ![image 2](Images/enhancement1_image2.png)
 
+<hr/>
+
+### Enhancement One Details
+
 <details>
 <summary>Enhancement Details</summary>
 
-List of Enhancements Performed:
+**List of Enhancements Performed**:
 - Convert original Java source code into C++
 - Replace Java Swing components and Swing patterns with Qt components and patterns
 - Fix formatting and whitespace inconsistencies
@@ -66,7 +70,7 @@ In enhancing this artifact, I gained entirely new experience with the Qt API. Wh
 
 ## Enhancement Two: Data Structures and Algorithms
 
-The artifact I chose for the data structures and algorithms category is a 3D OpenGL scene viewer where a 3D environment is programmatically constructed to resemble an illustration called Southern Freeway by Hiroshi Nagai (2017). This artifact came from CS 330 and I initially created it to demonstrate my understanding of OpenGL concepts like vertex arrays, transformations, textures, lighting, and shader programs. I selected this item for my ePortfolio because it contains a special Object class representing a tree data structure. This class makes it possible to construct hierarchical 3D scene graphs using trees, where child nodes inherit the translation, rotation, and scaling of parent nodes. There were multiple opportunities to implement new algorithms and utilize new data structures to enhance this artifact by modifying the Object class. 
+The artifact I chose for the data structures and algorithms category is a 3D OpenGL scene viewer where a 3D environment is programmatically constructed to resemble an illustration called Southern Freeway by Hiroshi Nagai (2017). This artifact came from CS 330 and I initially created it to demonstrate my understanding of OpenGL concepts like vertex arrays, transformations, textures, lighting, and shader programs. I selected this item for my ePortfolio because it contains a special Object class representing a tree data structure. This class makes it possible to construct hierarchical 3D scene graphs using trees, where child nodes inherit the translation, rotation, and scaling of parent nodes. There were multiple opportunities to implement new algorithms and utilize new data structures to enhance this artifact by modifying the Object class. Expand the enhancement details below for specific changes made.
 
 ###### Original Artwork by Hiroshi Nagai (2017)
 
@@ -80,10 +84,14 @@ The artifact I chose for the data structures and algorithms category is a 3D Ope
 
 ![image 3](Images/enhancement2_image3.png)
 
+<hr/>
+
+### Enhancement Two Details
+
 <details>
 <summary>Enhancement Details</summary>
 
-List of Enhancements Performed:
+**List of Enhancements Performed**:
 - Create a function to deep copy tree nodes using a stack data structure instead of recursion
 - Implement a radix sort algorithm to sort children of tree nodes by their draw index to allow for more control over the order of 3D rendering of objects
 - Create a function to convert tree data structure into a one-dimensional list data structure
@@ -112,7 +120,7 @@ I met all the course objectives I planned to meet in my initial ePortfolio plan 
 
 ## Enhancement Three: Databases
 
-For the databases category, I enhanced an artifact from IT 270 that was initially a website consisting of non-functional static webpages representing a fake real estate company. The home page featured a “Chat With an Agent” box at the bottom of the screen that allowed the user to enter text into an input field to mimic the concept of live customer service chats. I created this artifact to gain experience in web development by independently building and styling a website frontend over the course of a few weeks. I selected this artifact to enhance because while creating it, I took advantage of multiple learning opportunities to further my knowledge about HTML, CSS, and JavaScript, and this artifact showcases my skills in these subjects as well as provides a starting point for enhancements (CS-499-04 & CS-499-05). The “Chat With an Agent” feature included live JavaScript code but was client-side only and did not actually communicate with a remote server. To enhance this part of the artifact, I created a Node.js server and a MySQL server to accept chat message traffic from the original script and store those chat messages within a database. For company records, it may be desirable to store customer service chat logs so that they may be referenced in the future if necessary.
+For the databases category, I enhanced an artifact from IT 270 that was initially a website consisting of non-functional static webpages representing a fake real estate company. The home page featured a “Chat With an Agent” box at the bottom of the screen that allowed the user to enter text into an input field to mimic the concept of live customer service chats. I created this artifact to gain experience in web development by independently building and styling a website frontend over the course of a few weeks. I selected this artifact to enhance because while creating it, I took advantage of multiple learning opportunities to further my knowledge about HTML, CSS, and JavaScript, and this artifact showcases my skills in these subjects as well as provides a starting point for enhancements (CS-499-04 & CS-499-05). The “Chat With an Agent” feature included live JavaScript code but was client-side only and did not actually communicate with a remote server. To enhance this part of the artifact, I created a Node.js server and a MySQL server to accept chat message traffic from the original script and store those chat messages within a database. For company records, it may be desirable to store customer service chat logs so that they may be referenced in the future if necessary. Expand the enhancement details below for specific changes made.
 
 ###### Original Static Website I Created
 
@@ -126,10 +134,14 @@ For the databases category, I enhanced an artifact from IT 270 that was initiall
 
 ![image 3](Images/enhancement3_image3.png)
 
+<hr/>
+
+### Enhancement Three Details
+
 <details>
 <summary>Enhancement Details</summary>
 
-List of Enhancements Performed:
+**List of Enhancements Performed**:
 - Create a Node.js server as a backend of the original frontend site
 - Modify script for client-side chat that sends an XMLHttpRequest to the Node.js server containing chat messages entered by a user
 - Add functionality to Node.js server script that accepts traffic from clients and parses chat data sent over the network as JSON
