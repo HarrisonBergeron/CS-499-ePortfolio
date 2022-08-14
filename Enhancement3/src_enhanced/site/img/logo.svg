@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="168.92784mm"
+   height="52.745289mm"
+   viewBox="0 0 168.92784 52.745289"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.4805976"
+     inkscape:cx="283.33153"
+     inkscape:cy="-6.7540294"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="159.3951"
+       y="375.52402"
+       width="513.30621"
+       height="307.98373"
+       id="rect3290" />
+    <rect
+       x="159.3951"
+       y="375.52402"
+       width="513.30621"
+       height="307.98373"
+       id="rect3290-7" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-35.018214,-117.949)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,46.082088,19.650106)"
+       id="text3288"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect3290);fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:14.6079;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+         x="159.39453"
+         y="450.90157"
+         id="tspan28002">Shepard</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,46.83174,45.088179)"
+       id="text3288-9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect3290-7);fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:14.6079;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+         x="159.39453"
+         y="450.90157"
+         id="tspan28004">Real Estate</tspan></text>
+    <path
+       id="rect11494"
+       style="fill:#aa0000;stroke-width:0.228775"
+       d="m 65.159188,122.95261 -23.886462,23.88646 v 17.2149 h 15.25958 v -16.06834 h 10.582196 v 16.06834 h 15.259579 v -41.10136 z m 0.918676,6.44414 h 4.539311 v 4.53886 h -4.539311 z m 5.785513,0 h 4.539312 v 4.53886 h -4.539312 z m -5.785513,5.78551 h 4.539311 v 4.53887 h -4.539311 z m 5.785513,0 h 4.539312 v 4.53887 h -4.539312 z" />
+  </g>
+</svg>

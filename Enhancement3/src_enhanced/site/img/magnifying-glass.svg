@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="170mm"
+   height="170mm"
+   viewBox="0 0 170 169.99999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="magnifying-glass.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="115.4939"
+     inkscape:cy="260.70553"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.770852,-58.256392)">
+    <path
+       id="path846"
+       style="fill:#cccccc;stroke-width:3.86501"
+       d="m 106.32708,75.411626 a 58.613719,58.613719 0 0 0 -58.61399,58.613474 58.613719,58.613719 0 0 0 58.61399,58.61348 58.613719,58.613719 0 0 0 29.67209,-8.08219 l 27.59729,27.59727 18.7141,-18.7141 -27.10791,-27.1079 a 58.613719,58.613719 0 0 0 9.73791,-32.30656 58.613719,58.613719 0 0 0 -58.61348,-58.613474 z m 0,24.48171 A 34.131771,34.131771 0 0 1 140.45885,134.0251 34.131771,34.131771 0 0 1 106.32708,168.15687 34.131771,34.131771 0 0 1 72.194801,134.0251 34.131771,34.131771 0 0 1 106.32708,99.893336 Z" />
+  </g>
+</svg>

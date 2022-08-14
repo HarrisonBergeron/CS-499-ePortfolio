@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact Us - Shepard Real Estate</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/css/site.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="nav-bar">
+        <div class="nav-left">
+            <a href="/index.html"><button type="button" class="nav-button">Home</button></a>
+            <div class="nav-separator"></div>
+            <a href="/listings.html"><button type="button" class="nav-button">Find Listings</button></a>
+            <div class="nav-separator"></div>
+            <a href="/agents.html"><button type="button" class="nav-button">Find an Agent</button></a>
+            <div class="nav-separator"></div>
+            <a href="/about.html"><button type="button" class="nav-button">About</button></a>
+        </div>
+        <div class="nav-middle">
+            <img src="/img/logo.svg" alt="Company Logo" class="logo">
+        </div>
+        <div class="nav-right">
+            <a href=""><button type="button" class="nav-button">Log Out</button></a>
+            <div class="nav-separator"></div>
+            <button type="button" class="nav-button">My Account</button>
+        </div>
+    </div>
+    <div class="content">
+        <div class="contact-pane">
+            <h1>Contact Us</h1>
+            <form>
+                <label for="first-name">First name:</label>
+                <input type="text" id="first-name" name="first-name" class="input-box">
+                <br>
+                <label for="last-name">Last name:</label>
+                <input type="text" id="last-name" name="last-name" class="input-box">
+                <br>
+                <label for="mail">E-mail:</label>
+                <input type="email" id="mail" name="mail" class="input-box">
+                <br>
+                <label for="reason">Reason:</label>
+                <select id="reason" name="reason" class="selection">
+                    <option value="listing-inquiry">Listing Inquiry</option>
+                    <option value="career-application">Career Application</option>
+                    <option value="website-suggestion">Website Suggestion</option>
+                    <option value="website-issue">Website Issue</option>
+                    <option value="other">Other</option>
+                </select>
+                <br>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" class="message-box"></textarea>
+                <br>
+                <button type="submit" class="send">Send</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
